@@ -1,0 +1,23 @@
+/*
+* Kayla Hughes
+* 5-8-19
+* Girl Develop It
+*/
+*{
+
+}
+/* Body attributes here */
+body {
+background-color: rgb(235,200,190); /* This will change the background color to the combination of red, green, and blue chosen */
+font-family: sans-serif, serif, monospace; /* This changes the body's font to sans-serif with backup fonts of serif and monospace */
+
+}
+h1 {font-family: cursive; text-decoration: underline;} /* This changes the h1's font to cursive and underlines it */
+h2 {font-family: Cursive;text-decoration: underline;} /* This changes the h2's font to cursive and underlines it */
+header {text-align: center;background-color: rgb(250,95,100);} /* This centers the header and makes it's background color the combination of red, green, and blue chosen */
+#girl {float: right;} /* This makes the image move to the right of the page */
+#boy {float: right;} /* This makes the image move to the right of the page */
+main {margin: 10px;} /* This makes the margin width 10pc */
+a:visited {color:darkorchid;} /* This makes visited links show up as a dark orchid color */
+a:hover, a:focus {color: fuchsia; font-size: 20px;} /* This makes the links fuhsia and size 20px when hovered over or focused on */
+footer {font-family: serif;} /* This changes the footer's font to serif */
